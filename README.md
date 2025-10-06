@@ -19,3 +19,6 @@
 
    ![6](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/6.png)
    ![7](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/7.png)
+
+
+NOTE : Saya menggunakan Ubuntu ini menggunakan virtual box. 
