@@ -21,4 +21,9 @@
    ![7](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/7.png)
 
 
-NOTE : Saya menggunakan Ubuntu/Linux ini menggunakan virtual box. 
+### Configurasi postgress
+1. Pilih new database connection, lalu pilih postgreSQL.
+   ![8](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/8.png)
+3. Masukan Password yang sudah di ALTER sebelumnya, lalu test connection
+   ![9](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/9.png)
+5. Lalu finish
