@@ -22,8 +22,9 @@
 
 
 ### Configurasi postgress
-1. Pilih new database connection, lalu pilih postgreSQL.
+1. Pilih new database connection, lalu pilih postgreSQL, lalu masukan Password yang sudah di ALTER sebelumnya, lalu test connection
+   
    ![8](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/8.png)
-3. Masukan Password yang sudah di ALTER sebelumnya, lalu test connection
    ![9](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu/blob/main/Chapture/9.png)
+   
 5. Lalu finish
